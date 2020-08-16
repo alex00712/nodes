@@ -1,0 +1,5 @@
+{
+    "port": 4000,
+    "mongoUrl": "mongoURL",
+    "secret": "superSercert_key"
+}
